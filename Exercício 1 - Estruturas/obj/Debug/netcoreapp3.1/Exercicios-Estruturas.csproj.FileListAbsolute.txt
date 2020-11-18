@@ -1,0 +1,13 @@
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\bin\Debug\netcoreapp3.1\Exercicios-Estruturas.exe
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\bin\Debug\netcoreapp3.1\Exercicios-Estruturas.deps.json
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\bin\Debug\netcoreapp3.1\Exercicios-Estruturas.runtimeconfig.json
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\bin\Debug\netcoreapp3.1\Exercicios-Estruturas.runtimeconfig.dev.json
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\bin\Debug\netcoreapp3.1\Exercicios-Estruturas.dll
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\bin\Debug\netcoreapp3.1\Exercicios-Estruturas.pdb
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\obj\Debug\netcoreapp3.1\Exercicios-Estruturas.csprojAssemblyReference.cache
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\obj\Debug\netcoreapp3.1\Exercicios-Estruturas.AssemblyInfoInputs.cache
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\obj\Debug\netcoreapp3.1\Exercicios-Estruturas.AssemblyInfo.cs
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\obj\Debug\netcoreapp3.1\Exercicios-Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\obj\Debug\netcoreapp3.1\Exercicios-Estruturas.dll
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\obj\Debug\netcoreapp3.1\Exercicios-Estruturas.pdb
+C:\Users\Matheus Neri\Desktop\Exercicios-Estruturas\obj\Debug\netcoreapp3.1\Exercicios-Estruturas.genruntimeconfig.cache
