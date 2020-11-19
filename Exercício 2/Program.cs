@@ -14,26 +14,27 @@ namespace Exercício_2
         // while = Enquanto
         // if = Se
 
-               // Variável usuário
-
-               // Variável senha
+               
+            //    string username;
+            //    string password;
 
 
            
 
-            Console.WriteLine("Digite o nome de usuário ");
-            string usuario = Console. ReadLine();
-            Console.WriteLine ("Digite uma nova senha ");
-            string senha = Console.ReadLine();
-            while (usuario == senha) {
+                Console.WriteLine("Digite o seu nome de usuário");
+                string username = Console.ReadLine();
 
-            Console.WriteLine("Senha inválida. Tente novamente! ");
-            Console.WriteLine("Digite uma nova senha ");
-            usuario = Console.ReadLine();
-           
-            }
+                Console.WriteLine("Digite sua senha");
+                string password = Console.ReadLine();
 
-            Console.WriteLine ("Cadastro bem sucedido! ");
+                while(username == password) {
+
+                    Console.WriteLine("Senha inválida. Tente novamente. ");
+                    Console.WriteLine("Digite sua nova senha. Obs: Ela deve ser diferente do seu nome de usuário ");
+                    username = Console.ReadLine();
+                }
+
+                    Console.WriteLine("Cadastro feito. ");
 
            
                 
