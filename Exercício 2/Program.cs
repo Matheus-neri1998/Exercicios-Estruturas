@@ -9,31 +9,36 @@ namespace Exercício_2
 
 
         // var = Variável
+        // string = resposta
         // do = Faça
         // while = Enquanto
         // if = Se
 
-            int usuario;    // Variável usuário
+               // Variável usuário
 
-            int senha;     // Variável senha
+               // Variável senha
 
 
-            do{
+           
 
-            Console.WriteLine("Digite o nome de usuário? ");
-            usuario = int.Parse(Console.ReadLine());
-            // Console.WriteLine ("");
-            Console.WriteLine("Digite a sua senha ");
-            senha = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o nome de usuário ");
+            string usuario = Console. ReadLine();
+            Console.WriteLine ("Digite uma nova senha ");
+            string senha = Console.ReadLine();
+            while (usuario == senha) {
 
-            if(usuario != senha) {
-                 Console.WriteLine("Senha válida");
+            Console.WriteLine("Senha inválida. Tente novamente! ");
+            Console.WriteLine("Digite uma nova senha ");
+            usuario = Console.ReadLine();
+           
             }
-            }while(usuario == senha);
-            Console.WriteLine("Senha inválida");
-            Console.WriteLine("");
-            Console.WriteLine("Digite sua senha novamente");
-            senha = int.Parse(Console.ReadLine());
+
+            Console.WriteLine ("Cadastro bem sucedido! ");
+
+           
+                
+          
+           
         }
     }
 }
